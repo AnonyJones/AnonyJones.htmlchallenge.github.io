@@ -1,0 +1,33 @@
+.image {
+
+    float: right;
+    width: 50px;
+}
+
+.video {
+    position: center;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    
+  }
+  
+  .write {
+      font-style: italic;
+      font-size: 20px;
+      
+  }
+
+  
