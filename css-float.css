@@ -1,0 +1,23 @@
+img {
+    border-radius: 20px;
+    float: left;
+    
+}
+
+.luffy {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.box > div {
+    margin-top: 100px;
+    background-color: #f1f1f1;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 13px;
+}
+
+.p2 {
+    font-size: 20px;
+    font-family: "Monospace", Times, serif;
+}
